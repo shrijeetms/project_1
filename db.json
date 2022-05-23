@@ -5,13 +5,26 @@
       "lname": "Savadikar",
       "age": "25",
       "gender": "Male",
-      "dob": "2022-05-06",
+      "dob": "1997-08-30",
       "address": "Miraj",
       "state": "Maharashtra",
       "country": "India",
       "phone": "08484947881",
       "pincode": "416410",
       "id": 1
+    },
+    {
+      "name": "Pradip",
+      "lname": "Parmaj",
+      "age": "25",
+      "gender": "Male",
+      "dob": "1997-12-11",
+      "address": "FC Street",
+      "state": "New York",
+      "country": "England ",
+      "phone": "7038183385",
+      "pincode": "511209",
+      "id": 2
     }
   ]
 }
