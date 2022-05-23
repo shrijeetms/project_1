@@ -1,0 +1,32 @@
+
+<p style="text-align:center; font-size:30px; margin-top: 2%;">List of Registered User</p>
+<div style="margin: 30px; font-size: small;">
+<table id="customers" >
+    <tr>
+        <th>ID</th>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Gender</th>
+      <th>Date of Birth</th>
+      <th>Address</th>
+      <th>State</th>
+      <th>Country</th>
+      <th>Phone</th>
+      <th>Pin code</th>  </tr>
+    <tr *ngFor="let u of users; index as i">
+        <td>{{u.id}}</td>
+        <td>{{u.name+" "+u.lname}}</td>
+        <td> {{u.age}}</td>
+          <td> {{u.gender}} </td>
+              <td> {{u.dob | date:'shortDate'}} </td>
+                  <td>{{u.address}}</td>
+                      <td>{{u.state}}</td>
+                          <td>{{u.country | uppercase | country}}</td>
+                              <td>{{u.phone}}</td>
+                                  <td> {{u.pincode}}</td>  </tr>
+  </table>
+  <div>
+
+
+
+  

@@ -1,0 +1,153 @@
+{
+  "user": [
+    {
+      "name": "Shrijeet",
+      "lname": "Savadikar",
+      "age": "80",
+      "gender": "m",
+      "dob": "2022-05-06",
+      "address": "Miraj",
+      "state": "Maharashtra",
+      "country": "India",
+      "phone": "08484947881",
+      "pincode": "416410",
+      "id": 1
+    },
+    {
+      "name": "Rohit",
+      "lname": "Sharma",
+      "age": "23",
+      "gender": "",
+      "dob": "2022-05-19",
+      "address": "mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "phone": "01234567890",
+      "pincode": "416410",
+      "id": 2
+    },
+    {
+      "name": "",
+      "lname": "",
+      "gender": "",
+      "dob": "2022-05-23T13:43:08.242Z",
+      "address": "",
+      "state": "",
+      "country": "",
+      "phone": 1234567890,
+      "pincode": 123456,
+      "id": 3
+    },
+    {
+      "name": "Rohit",
+      "lname": "Sharma",
+      "age": "123",
+      "gender": "",
+      "dob": "2022-05-19",
+      "address": "mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "phone": "01234567890",
+      "pincode": "416410",
+      "id": 4
+    },
+    {
+      "name": "Shrijeet",
+      "lname": "Savadikar",
+      "age": "1234",
+      "dob": "2022-05-25",
+      "address": "Miraj",
+      "state": "Maharashtra",
+      "country": "India",
+      "phone": "08484947881",
+      "pincode": "416410",
+      "id": 5
+    },
+    {
+      "name": "Shrijeet",
+      "lname": "Savadikar",
+      "gender": "Male",
+      "dob": "2022-05-23T13:52:48.795Z",
+      "address": "Miraj",
+      "state": "Maharashtra",
+      "country": "India",
+      "phone": "08484947881",
+      "pincode": "416410",
+      "id": 6
+    },
+    {
+      "name": "",
+      "lname": "",
+      "gender": "Male",
+      "dob": "2022-05-23T14:40:12.743Z",
+      "address": "",
+      "state": "",
+      "country": "",
+      "phone": 1234567890,
+      "pincode": 123456,
+      "id": 7
+    },
+    {
+      "name": "",
+      "lname": "",
+      "gender": "Male",
+      "dob": "2022-05-23T14:45:14.594Z",
+      "address": "",
+      "state": "",
+      "country": "",
+      "phone": 1234567890,
+      "pincode": 123456,
+      "id": 8
+    },
+    {
+      "name": "",
+      "lname": "",
+      "gender": "Male",
+      "dob": "2022-05-23T14:46:16.514Z",
+      "address": "",
+      "state": "",
+      "country": "",
+      "phone": 1234567890,
+      "pincode": 123456,
+      "id": 9
+    },
+    {
+      "name": "",
+      "lname": "",
+      "gender": "Male",
+      "dob": "2022-05-23T14:55:05.516Z",
+      "address": "",
+      "state": "",
+      "country": "",
+      "phone": 1234567890,
+      "pincode": 123456,
+      "id": 10
+    },
+    {
+      "name": "Shrijeet",
+      "lname": "Savadikar",
+      "age": "13",
+      "gender": "Male",
+      "dob": "2022-05-19",
+      "address": "Miraj",
+      "state": "Maharashtra",
+      "country": "India",
+      "phone": "08484947881",
+      "pincode": "416410",
+      "id": 11
+    },
+    {
+      "name": "Shrijeet",
+      "lname": "Savadikar",
+      "age": "1234",
+      "gender": "Male",
+      "dob": "2022-05-26",
+      "address": "Miraj",
+      "state": "Maharashtra",
+      "country": "India",
+      "phone": "08484947881",
+      "pincode": "416410",
+      "id": 12
+    }
+  ]
+}
